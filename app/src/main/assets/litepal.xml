@@ -1,0 +1,8 @@
+<litepal>
+    <dbname value="plan"/>
+    <version value="1">
+        <list>
+            <mapping class="com.example.a11715.plan.db.Event"/>
+        </list>
+    </version>
+</litepal>
